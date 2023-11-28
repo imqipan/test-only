@@ -15,4 +15,3 @@
 | 8      | [Atomic Wallet](https://atomicwallet.io/)      | Mainnet                          |
 | 9      | [Infinity Wallet](https://infinitywallet.io/)  | Mainnet                          |
 | 10     | [imToken](https://token.im/)                   | Mainnet                          |
-| 10     | [imToken_Test](https://token.im/test/)                   | Mainnet                          |
